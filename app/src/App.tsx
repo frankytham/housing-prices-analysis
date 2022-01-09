@@ -6,7 +6,7 @@ export default function App() {
 
   const postSuburb = (event: any) => {
     event.preventDefault();
-    fetch('/api/list', {
+    fetch('https://housing-prices-analysis.azurewebsites.net/api/list?', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -38,6 +38,8 @@ export default function App() {
             <button type="submit" className="App-button">Submit</button>
           </div>
         </form>
+        <p>{process.env.API_PARAM}</p>
+        <p>{process.env.API_KEY}</p>
         <a className="App-link" href="https://github.com/frankytham/housing-prices-analysis" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
       </header>
     </div>
