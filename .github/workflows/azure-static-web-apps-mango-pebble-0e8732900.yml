@@ -9,6 +9,10 @@ on:
     branches:
       - main
 
+env:
+  REACT_APP_FUNCTION_API_PARAM: ${{ secrets.REACT_APP_FUNCTION_API_PARAM }}
+  REACT_APP_FUNCTION_API_KEY: ${{ secrets.REACT_APP_FUNCTION_API_KEY }}
+
 jobs:
   build_and_deploy_job:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
@@ -31,10 +35,12 @@ jobs:
         run: |
           cd app
           touch .env
-          echo 'REACT_APP_FUNCTION_API_PARAM=${{ secrets.API_PARAM }}' >> .env
-          echo 'REACT_APP_FUNCTION_API_KEY=${{ secrets.API_KEY }}' >> .env
+          echo 'REACT_APP_FUNCTION_API_PARAMA=${{ secrets.API_PARAM }}' >> .env
+          echo 'REACT_APP_FUNCTION_API_KEYA=${{ secrets.API_KEY }}' >> .env
           ls -la
           cat .env
+          echo '------------------'
+          env
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
