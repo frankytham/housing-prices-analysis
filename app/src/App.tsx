@@ -6,7 +6,7 @@ export default function App() {
 
   const postSuburb = (event: any) => {
     event.preventDefault();
-    fetch('https://housing-prices-analysis.azurewebsites.net/api/list?', {
+    fetch(`https://housing-prices-analysis.azurewebsites.net/api/list?${process.env.REACT_APP_FUNCTION_API_PARAM}=${process.env.REACT_APP_FUNCTION_API_KEY}`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -21,9 +21,6 @@ export default function App() {
   const handleChange = (event: any) => {
     setSuburb(event.target.value);
   };
-
-  const apiparam = process.env.REACT_APP_FUNCTION_API_PARAM;
-  const apikey = process.env.REACT_APP_FUNCTION_API_KEY;
 
   return (
     <div className="App">
@@ -41,8 +38,8 @@ export default function App() {
             <button type="submit" className="App-button">Submit</button>
           </div>
         </form>
-        <p>{apiparam}</p>
-        <p>{apikey}</p>
+        <p>{process.env.REACT_APP_FUNCTION_API_PARAM}</p>
+        <p>{process.env.REACT_APP_FUNCTION_API_KEY}</p>
         <a className="App-link" href="https://github.com/frankytham/housing-prices-analysis" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
       </header>
     </div>
