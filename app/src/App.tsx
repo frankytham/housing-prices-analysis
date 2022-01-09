@@ -22,6 +22,9 @@ export default function App() {
     setSuburb(event.target.value);
   };
 
+  const apiparam = process.env.REACT_APP_FUNCTION_API_PARAM;
+  const apikey = process.env.REACT_APP_FUNCTION_API_KEY;
+
   return (
     <div className="App">
       <header className="App-header">
@@ -38,8 +41,8 @@ export default function App() {
             <button type="submit" className="App-button">Submit</button>
           </div>
         </form>
-        <p>{0+1}{process.env.API_PARAM}</p>
-        <p>{1+1}{process.env.API_KEY}</p>
+        <p>{apiparam}</p>
+        <p>{apikey}</p>
         <a className="App-link" href="https://github.com/frankytham/housing-prices-analysis" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
       </header>
     </div>

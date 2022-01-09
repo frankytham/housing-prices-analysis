@@ -31,8 +31,8 @@ jobs:
         run: |
           cd app
           touch .env
-          echo 'API_PARAM=${{ secrets.API_PARAM }}' >> .env
-          echo 'API_KEY=${{ secrets.API_KEY }}' >> .env
+          echo 'REACT_APP_FUNCTION_API_PARAM=${{ secrets.API_PARAM }}' >> .env
+          echo 'REACT_APP_FUNCTION_API_KEY=${{ secrets.API_KEY }}' >> .env
           ls -la
           cat .env
 
