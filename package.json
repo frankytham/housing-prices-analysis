@@ -1,0 +1,28 @@
+{
+  "name": "housing-prices-analysis",
+  "version": "1.0.0",
+  "description": "Housing Prices Analysis",
+  "main": "index.js",
+  "scripts": {
+    "api": "cd api && npm start",
+    "app": "cd app && npm start",
+    "dev": "concurrently \"npm:api\" \"npm:app\" ",
+    "swa": "swa start http://localhost:3000 --api-location http://localhost:7071",
+    "start": "npm run dev && npm run swa-up"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankytham/housing-prices-analysis.git"
+  },
+  "author": "Franky Tham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankytham/housing-prices-analysis/issues"
+  },
+  "homepage": "https://github.com/frankytham/housing-prices-analysis#readme",
+  "devDependencies": {
+    "@azure/static-web-apps-cli": "^0.8.2",
+    "azure-functions-core-tools": "^3.0.3904",
+    "concurrently": "^7.0.0"
+  }
+}
