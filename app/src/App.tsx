@@ -1,45 +1,57 @@
-import { useState } from 'react';
-import './App.css';
+import React from 'react';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { createTheme, ThemeProvider } from '@mui/material/styles';
+
+import { ListingProvider } from './contexts/ListingContext';
+
+import Header from './components/Header';
+import BackgroundMedia from './components/BackgroundMedia';
+import Home from './views/Home';
+import Result from './views/Result';
+import Footer from './components/Footer';
+
+const theme = createTheme({
+  palette: {
+    primary: {
+      main: '#2e7d32'
+    }
+  },
+  typography: {
+    fontFamily: [
+      '"Roboto"',
+      'sans-serif',
+    ].join(','),
+    h4: {
+      fontWeight: 300,
+      letterSpacing: '0.05em'
+    }
+  },
+  shape: {
+    borderRadius: 0,
+  },
+});
 
 export default function App() {
-  const [suburb, setSuburb] = useState('');
-
-  const postSuburb = (event: any) => {
-    event.preventDefault();
-    fetch(`https://housing-prices-analysis.azurewebsites.net/api/list?${process.env.REACT_APP_FUNCTION_API_PARAM}=${process.env.REACT_APP_FUNCTION_API_KEY}`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        suburb: suburb
-      })
-    })
-    .catch(err => console.log('An error has occurred'));
-  };
-
-  const handleChange = (event: any) => {
-    setSuburb(event.target.value);
-  };
+  const bgImageUrl = "./img/house-coins-bg.jpg";
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Housing Prices Analysis</h1>
-        <form id="suburb_form" className="App-form" onSubmit={postSuburb}>
-          <div>
-            <input 
-              type="text" 
-              id="suburb" 
-              className="App-input" 
-              placeholder="Suburb" 
-              value={suburb} 
-              onChange={handleChange} />
-            <button type="submit" className="App-button">Submit</button>
-          </div>
-        </form>
-        <a className="App-link" href="https://github.com/frankytham/housing-prices-analysis" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <BrowserRouter>
+        <ListingProvider>
+          <Header />
+          <main>
+            <Routes>
+              <Route path='/' element={
+                <BackgroundMedia imageUrl={bgImageUrl}>
+                  <Home />
+                </BackgroundMedia>
+              } />
+              <Route path='/result' element={<Result />} />
+            </Routes>
+          </main>
+          <Footer />
+        </ListingProvider>
+      </BrowserRouter>
+    </ThemeProvider>
   );
 }

@@ -1,0 +1,1312 @@
+{
+  "listings": [
+      {
+          "type": "Project",
+          "listings": [
+              {
+                  "listingType": "NewHomes",
+                  "id": 2016426294,
+                  "projectId": 3921,
+                  "advertiser": {
+                      "type": "Agency",
+                      "id": 28017,
+                      "name": "Greenland Australia",
+                      "logoUrl": "https://images.domain.com.au/img/Agencys/28017/logo_28017.jpeg",
+                      "preferredColourHex": "#000",
+                      "bannerUrl": "https://images.domain.com.au/img/Agencys/28017/banner_28017.jpeg",
+                      "contacts": [
+                          {
+                              "name": "Sales Team",
+                              "photoUrl": "https://images.domain.com.au/img/28017/contact_1325348.jpeg?mod=211029-102805"
+                          }
+                      ]
+                  },
+                  "priceDetails": {
+                      "price": 825000,
+                      "priceFrom": 825000,
+                      "priceTo": 825000,
+                      "displayPrice": "$825,000"
+                  },
+                  "media": [
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_4_1_210801_080029-w4000-h2667"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_2_1_210801_080029-w2663-h4000"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426327_4_1_210801_081145-w2663-h4000"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_5_1_210801_080029-w4000-h2663"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_6_1_210801_080029-w2662-h4000"
+                      }
+                  ],
+                  "propertyDetails": {
+                      "state": "NSW",
+                      "features": [
+                          "AirConditioning",
+                          "BuiltInWardrobes",
+                          "Floorboards",
+                          "InternalLaundry",
+                          "PetsAllowed",
+                          "SwimmingPool",
+                          "IndoorSpa",
+                          "Gym",
+                          "AlarmSystem",
+                          "Intercom",
+                          "Heating",
+                          "Dishwasher",
+                          "BalconyDeck"
+                      ],
+                      "propertyType": "NewApartments",
+                      "allPropertyTypes": [
+                          "NewApartments"
+                      ],
+                      "bathrooms": 1,
+                      "unitNumber": "16.05",
+                      "streetNumber": "115",
+                      "street": "Bathurst Street",
+                      "area": "Sydney City",
+                      "region": "Sydney Region",
+                      "suburb": "SYDNEY",
+                      "postcode": "2000",
+                      "displayableAddress": "16.05/115 Bathurst Street, Sydney",
+                      "latitude": -33.87489,
+                      "longitude": 151.2076,
+                      "buildingArea": 37
+                  },
+                  "headline": "Brand New Studio Apartment, Completed and Ready to Move In",
+                  "summaryDescription": "<b></b><br />As one of Sydneys tallest residential towers, Greenland Centre reaches new heights of luxury and convenience in residential living commanding never before seen views over the worlds most beautiful harbour city.\r\n\r\n- Immaculately designed s...",
+                  "hasFloorplan": true,
+                  "hasVideo": false,
+                  "labels": [
+                      "New homes"
+                  ],
+                  "dateListed": "2020-08-07T15:36:15",
+                  "inspectionSchedule": {
+                      "byAppointment": true,
+                      "recurring": false,
+                      "times": []
+                  },
+                  "listingSlug": "16-05-115-bathurst-street-sydney-nsw-2000-2016426294"
+              },
+              {
+                  "listingType": "NewHomes",
+                  "id": 2016426327,
+                  "projectId": 3921,
+                  "advertiser": {
+                      "type": "Agency",
+                      "id": 28017,
+                      "name": "Greenland Australia",
+                      "logoUrl": "https://images.domain.com.au/img/Agencys/28017/logo_28017.jpeg",
+                      "preferredColourHex": "#000",
+                      "bannerUrl": "https://images.domain.com.au/img/Agencys/28017/banner_28017.jpeg",
+                      "contacts": [
+                          {
+                              "name": "Sales Team",
+                              "photoUrl": "https://images.domain.com.au/img/28017/contact_1325348.jpeg?mod=211029-102805"
+                          }
+                      ]
+                  },
+                  "priceDetails": {
+                      "price": 1283000,
+                      "priceFrom": 1283000,
+                      "priceTo": 1283000,
+                      "displayPrice": "$1,283,000"
+                  },
+                  "media": [
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_2_1_210801_080029-w2663-h4000"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_1_1_210801_080029-w2000-h1331"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_4_1_210801_080029-w4000-h2667"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426327_4_1_210801_081145-w2663-h4000"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426327_5_1_210801_081145-w4000-h2662"
+                      }
+                  ],
+                  "propertyDetails": {
+                      "state": "NSW",
+                      "features": [
+                          "AirConditioning",
+                          "BuiltInWardrobes",
+                          "Ensuite",
+                          "Floorboards",
+                          "InternalLaundry",
+                          "PetsAllowed",
+                          "SwimmingPool",
+                          "NorthFacing",
+                          "IndoorSpa",
+                          "Gym",
+                          "Dishwasher",
+                          "BalconyDeck"
+                      ],
+                      "propertyType": "NewApartments",
+                      "allPropertyTypes": [
+                          "NewApartments"
+                      ],
+                      "bathrooms": 1,
+                      "bedrooms": 1,
+                      "unitNumber": "13.02",
+                      "streetNumber": "115",
+                      "street": "Bathurst Street",
+                      "area": "Sydney City",
+                      "region": "Sydney Region",
+                      "suburb": "SYDNEY",
+                      "postcode": "2000",
+                      "displayableAddress": "13.02/115 Bathurst Street, Sydney",
+                      "latitude": -33.87489,
+                      "longitude": 151.2076,
+                      "buildingArea": 72
+                  },
+                  "headline": "Brand New One Bedroom Plus Study Apartment, Completed and Ready to Move In",
+                  "summaryDescription": "<b></b><br />As one of Sydneys tallest residential towers, Greenland Centre reaches new heights of luxury and convenience in residential living commanding never before seen views over the worlds most beautiful harbour city.\r\n\r\n- Immaculately designed o...",
+                  "hasFloorplan": true,
+                  "hasVideo": false,
+                  "labels": [
+                      "New homes"
+                  ],
+                  "dateListed": "2020-08-07T15:42:50",
+                  "inspectionSchedule": {
+                      "byAppointment": true,
+                      "recurring": false,
+                      "times": []
+                  },
+                  "listingSlug": "13-02-115-bathurst-street-sydney-nsw-2000-2016426327"
+              },
+              {
+                  "listingType": "NewHomes",
+                  "id": 2016426333,
+                  "projectId": 3921,
+                  "advertiser": {
+                      "type": "Agency",
+                      "id": 28017,
+                      "name": "Greenland Australia",
+                      "logoUrl": "https://images.domain.com.au/img/Agencys/28017/logo_28017.jpeg",
+                      "preferredColourHex": "#000",
+                      "bannerUrl": "https://images.domain.com.au/img/Agencys/28017/banner_28017.jpeg",
+                      "contacts": [
+                          {
+                              "name": "Sales Team",
+                              "photoUrl": "https://images.domain.com.au/img/28017/contact_1325348.jpeg?mod=211029-102805"
+                          }
+                      ]
+                  },
+                  "priceDetails": {
+                      "price": 1258000,
+                      "priceFrom": 1258000,
+                      "priceTo": 1258000,
+                      "displayPrice": "$1,258,000"
+                  },
+                  "media": [
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_1_1_210801_080029-w2000-h1331"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_2_1_210801_080029-w2663-h4000"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_3_1_210801_080029-w4000-h2667"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_4_1_210801_080029-w4000-h2667"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426333_5_1_210801_080029-w4000-h2663"
+                      }
+                  ],
+                  "propertyDetails": {
+                      "state": "NSW",
+                      "features": [
+                          "AirConditioning",
+                          "BuiltInWardrobes",
+                          "Floorboards",
+                          "InternalLaundry",
+                          "PetsAllowed",
+                          "SwimmingPool",
+                          "IndoorSpa",
+                          "Gym",
+                          "AlarmSystem",
+                          "Intercom",
+                          "Heating",
+                          "Dishwasher",
+                          "Study",
+                          "BalconyDeck"
+                      ],
+                      "propertyType": "NewApartments",
+                      "allPropertyTypes": [
+                          "NewApartments"
+                      ],
+                      "bathrooms": 1,
+                      "bedrooms": 1,
+                      "unitNumber": "33.05",
+                      "streetNumber": "115",
+                      "street": "Bathurst Street",
+                      "area": "Sydney City",
+                      "region": "Sydney Region",
+                      "suburb": "SYDNEY",
+                      "postcode": "2000",
+                      "displayableAddress": "33.05/115 Bathurst Street, Sydney",
+                      "latitude": -33.87489,
+                      "longitude": 151.2076,
+                      "landArea": 63,
+                      "buildingArea": 55
+                  },
+                  "headline": "Brand New One Bedroom, Completed and Ready to Move In",
+                  "summaryDescription": "<b></b><br />As one of Sydneys tallest residential towers, Greenland Centre reaches new heights of luxury and convenience in residential living commanding never before seen views over the worlds most beautiful harbour city.\r\n\r\n- Immaculately designed o...",
+                  "hasFloorplan": true,
+                  "hasVideo": false,
+                  "labels": [
+                      "New homes"
+                  ],
+                  "dateListed": "2020-08-07T15:45:21",
+                  "inspectionSchedule": {
+                      "byAppointment": true,
+                      "recurring": false,
+                      "times": []
+                  },
+                  "listingSlug": "33-05-115-bathurst-street-sydney-nsw-2000-2016426333"
+              },
+              {
+                  "listingType": "NewHomes",
+                  "id": 2016426419,
+                  "projectId": 3921,
+                  "advertiser": {
+                      "type": "Agency",
+                      "id": 28017,
+                      "name": "Greenland Australia",
+                      "logoUrl": "https://images.domain.com.au/img/Agencys/28017/logo_28017.jpeg",
+                      "preferredColourHex": "#000",
+                      "bannerUrl": "https://images.domain.com.au/img/Agencys/28017/banner_28017.jpeg",
+                      "contacts": [
+                          {
+                              "name": "Sales Team",
+                              "photoUrl": "https://images.domain.com.au/img/28017/contact_1325348.jpeg?mod=211029-102805"
+                          }
+                      ]
+                  },
+                  "priceDetails": {
+                      "price": 1680000,
+                      "priceFrom": 1680000,
+                      "priceTo": 1680000,
+                      "displayPrice": "$1,680,000"
+                  },
+                  "media": [
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426419_1_1_210801_073528-w4000-h2667"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426419_2_1_210801_073528-w4000-h2667"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426419_3_1_210801_073528-w4000-h2667"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426419_4_1_210801_073528-w2667-h4000"
+                      },
+                      {
+                          "category": "Image",
+                          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016426419_5_1_210801_073528-w2000-h1333"
+                      }
+                  ],
+                  "propertyDetails": {
+                      "state": "NSW",
+                      "features": [
+                          "AirConditioning",
+                          "BuiltInWardrobes",
+                          "Ensuite",
+                          "Floorboards",
+                          "InternalLaundry",
+                          "SwimmingPool",
+                          "IndoorSpa",
+                          "Gym",
+                          "AlarmSystem",
+                          "Intercom",
+                          "Dishwasher",
+                          "Study",
+                          "OutdoorSpa",
+                          "GardenCourtyard",
+                          "BalconyDeck"
+                      ],
+                      "propertyType": "NewApartments",
+                      "allPropertyTypes": [
+                          "NewApartments"
+                      ],
+                      "bathrooms": 2,
+                      "bedrooms": 2,
+                      "unitNumber": "12.06",
+                      "streetNumber": "115",
+                      "street": "Bathurst Street",
+                      "area": "Sydney City",
+                      "region": "Sydney Region",
+                      "suburb": "SYDNEY",
+                      "postcode": "2000",
+                      "displayableAddress": "12.06/115 Bathurst Street, Sydney",
+                      "latitude": -33.87489,
+                      "longitude": 151.2076,
+                      "buildingArea": 104
+                  },
+                  "headline": "METICULOUSLY DESIGNED TWO BEDROOM APARTMENT",
+                  "summaryDescription": "<b></b><br />COMPLETED AND READY TO MOVE IN\r\n\r\nAs one of Sydneys tallest residential towers, Greenland Centre reaches new heights of luxury and convenience in residential living commanding never before seen views over the worlds most beautiful harbour ...",
+                  "hasFloorplan": true,
+                  "hasVideo": false,
+                  "labels": [
+                      "New homes"
+                  ],
+                  "dateListed": "2020-08-07T16:01:48",
+                  "inspectionSchedule": {
+                      "byAppointment": true,
+                      "recurring": false,
+                      "times": []
+                  },
+                  "listingSlug": "12-06-115-bathurst-street-sydney-nsw-2000-2016426419"
+              }
+          ],
+          "project": {
+              "state": "NSW",
+              "id": 3921,
+              "name": "Greenland Centre",
+              "bannerUrl": "https://images.domain.com.au/img/Agencys/devproject/banner_3921_211028_112805",
+              "preferredColorHex": "#000000",
+              "logoUrl": "https://images.domain.com.au/img/Agencys/devproject/logo_3921_211028_112805",
+              "labels": [
+                  "Updated"
+              ],
+              "displayableAddress": "115 BATHURST STREET, SYDNEY, NSW 2000",
+              "suburb": "SYDNEY",
+              "features": [
+                  "Sydney's Tallest Tower",
+                  "First Class Onsite Amenity",
+                  "Heart of the CBD",
+                  "Panoramic Views",
+                  "Completed projects"
+              ],
+              "media": [
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/8e82cabe-1fdf-48b9-a2ad-5f8fd5fd7a14-w3500-h2131"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/cef9c414-c44c-4726-a20d-681648beedd1-w3500-h1969"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/3921_3_13_210730_120250-w1254-h2160"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/3921_4_13_210730_120250-w1437-h2160"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/3921_5_13_210730_120250-w1259-h2160"
+                  }
+              ],
+              "projectSlug": "project/3921/greenland-centre-sydney-nsw"
+          }
+      },
+      {
+          "type": "PropertyListing",
+          "listing": {
+              "listingType": "Sale",
+              "id": 2017336048,
+              "advertiser": {
+                  "type": "Agency",
+                  "id": 6127,
+                  "name": "Ace  Properties",
+                  "logoUrl": "https://images.domain.com.au/img/Agencys/6127/logo_6127.png",
+                  "preferredColourHex": "#FFF",
+                  "bannerUrl": "https://images.domain.com.au/img/Agencys/6127/banner_6127.png",
+                  "contacts": [
+                      {
+                          "name": "Edwin Tai",
+                          "photoUrl": "https://images.domain.com.au/img/6127/contact_683351.JPG?mod=211209-171853"
+                      }
+                  ]
+              },
+              "priceDetails": {
+                  "price": 768000,
+                  "priceFrom": 768000,
+                  "priceTo": 768000,
+                  "displayPrice": "$768,000"
+              },
+              "media": [
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017336048_1_1_211019_021025-w1800-h1200"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017336048_2_1_211019_021025-w1800-h1200"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017336048_3_1_211019_021024-w1800-h1200"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017336048_4_1_211019_021024-w1800-h1200"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017336048_5_1_211019_021025-w1800-h1200"
+                  }
+              ],
+              "propertyDetails": {
+                  "state": "NSW",
+                  "features": [
+                      "AirConditioning",
+                      "BuiltInWardrobes",
+                      "Gas",
+                      "InternalLaundry",
+                      "SecureParking",
+                      "SwimmingPool",
+                      "IndoorSpa",
+                      "Gym",
+                      "Intercom",
+                      "Bath",
+                      "Dishwasher"
+                  ],
+                  "propertyType": "ApartmentUnitFlat",
+                  "allPropertyTypes": [
+                      "ApartmentUnitFlat"
+                  ],
+                  "bathrooms": 1,
+                  "bedrooms": 1,
+                  "carspaces": 1,
+                  "unitNumber": "318",
+                  "streetNumber": "569",
+                  "street": "George Street",
+                  "area": "Sydney City",
+                  "region": "Sydney Region",
+                  "suburb": "SYDNEY",
+                  "postcode": "2000",
+                  "displayableAddress": "318/569 George Street, Sydney",
+                  "latitude": -33.8768425,
+                  "longitude": 151.205826
+              },
+              "headline": "Inner City Living at its Finest",
+              "summaryDescription": "<b></b><br />This exceptional unit positioned on level 24 of 'The Summit Apartments' offers an enviable inner city lifestyle and sensational views in the heart of Sydney CBD.\r\n\r\nShowcasing quality finishes throughout, the apartment features one bedroom...",
+              "hasFloorplan": true,
+              "hasVideo": false,
+              "labels": [],
+              "dateListed": "2021-10-19T13:10:28",
+              "inspectionSchedule": {
+                  "byAppointment": false,
+                  "recurring": false,
+                  "times": []
+              },
+              "listingSlug": "318-569-george-street-sydney-nsw-2000-2017336048"
+          }
+      },
+      {
+          "type": "PropertyListing",
+          "listing": {
+              "listingType": "Sale",
+              "id": 2017285065,
+              "advertiser": {
+                  "type": "Agency",
+                  "id": 20117,
+                  "name": "Ray White Residential Sydney CBD",
+                  "logoUrl": "https://images.domain.com.au/img/Agencys/20117/logo_20117.png?date=131378335219211948",
+                  "preferredColourHex": "#FEE536",
+                  "bannerUrl": "https://images.domain.com.au/img/Agencys/20117/banner_20117.png?date=131378335600930948",
+                  "contacts": [
+                      {
+                          "name": "Michael Lowdon",
+                          "photoUrl": "https://images.domain.com.au/img/20117/contact_1039428.jpeg?mod=211209-113844"
+                      }
+                  ]
+              },
+              "priceDetails": {
+                  "price": 9250000,
+                  "priceFrom": 9250000,
+                  "priceTo": 9250000,
+                  "displayPrice": "$9,250,000"
+              },
+              "media": [
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017285065_1_1_210928_080201-w3000-h1999"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017285065_2_1_210928_080201-w3000-h2001"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017285065_3_1_210928_080201-w3000-h1998"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017285065_4_1_210928_080201-w3000-h2001"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017285065_5_1_210928_080201-w3000-h2000"
+                  }
+              ],
+              "propertyDetails": {
+                  "state": "NSW",
+                  "features": [
+                      "AirConditioning",
+                      "BuiltInWardrobes",
+                      "CableOrSatellite",
+                      "Ensuite",
+                      "Gas",
+                      "InternalLaundry",
+                      "PetsAllowed",
+                      "SecureParking",
+                      "SwimmingPool",
+                      "WaterViews",
+                      "CityViews",
+                      "Intercom",
+                      "Bath",
+                      "Dishwasher",
+                      "Study",
+                      "BalconyDeck"
+                  ],
+                  "propertyType": "ApartmentUnitFlat",
+                  "allPropertyTypes": [
+                      "ApartmentUnitFlat"
+                  ],
+                  "bathrooms": 3,
+                  "bedrooms": 3,
+                  "carspaces": 3,
+                  "unitNumber": "1302",
+                  "streetNumber": "185",
+                  "street": "Macquarie Street",
+                  "area": "Sydney City",
+                  "region": "Sydney Region",
+                  "suburb": "SYDNEY",
+                  "postcode": "2000",
+                  "displayableAddress": "1302/185 Macquarie Street, Sydney",
+                  "latitude": -33.8667946,
+                  "longitude": 151.212112,
+                  "landArea": 428,
+                  "buildingArea": 372
+              },
+              "headline": "A Truly Magnificent Penthouse with Impressive Statistics",
+              "summaryDescription": "<b></b><br />I am delighted to offer this remarkable penthouse located in what is widely regarded as the city's most coveted address, Macquarie Street, Sydney.\r\n\r\nIn recent times the press is awash with stories of record sales. These records are being ...",
+              "hasFloorplan": true,
+              "hasVideo": false,
+              "labels": [],
+              "dateListed": "2021-09-28T18:02:05",
+              "inspectionSchedule": {
+                  "byAppointment": false,
+                  "recurring": false,
+                  "times": []
+              },
+              "listingSlug": "1302-185-macquarie-street-sydney-nsw-2000-2017285065"
+          }
+      },
+      {
+          "type": "PropertyListing",
+          "listing": {
+              "listingType": "Sale",
+              "id": 2017344422,
+              "advertiser": {
+                  "type": "Agency",
+                  "id": 3930,
+                  "name": "Greencliff Agency",
+                  "logoUrl": "https://images.domain.com.au/img/Agencys/3930/logo_3930.jpeg",
+                  "preferredColourHex": "#00243C",
+                  "bannerUrl": "https://images.domain.com.au/img/Agencys/3930/banner_3930.jpeg",
+                  "contacts": [
+                      {
+                          "name": "David Butt",
+                          "photoUrl": "https://images.domain.com.au/img/3930/contact_802349.JPG?mod=220113-141232"
+                      },
+                      {
+                          "name": "William Chen ( Yuanyuan Chen)",
+                          "photoUrl": "https://images.domain.com.au/img/3930/contact_1601449.jpeg?mod=220113-141232"
+                      }
+                  ]
+              },
+              "priceDetails": {
+                  "price": 2800000,
+                  "priceFrom": 2800000,
+                  "priceTo": 2800000,
+                  "displayPrice": "$2,800,000"
+              },
+              "media": [
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017344422_1_1_211021_021837-w6016-h4016"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017344422_2_1_211021_021837-w6016-h4016"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017344422_3_1_211021_021837-w6017-h4017"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017344422_4_1_211021_021837-w6016-h4016"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017344422_5_1_211021_021837-w6016-h4016"
+                  }
+              ],
+              "propertyDetails": {
+                  "state": "NSW",
+                  "features": [
+                      "AirConditioning",
+                      "BuiltInWardrobes",
+                      "Ensuite",
+                      "Floorboards",
+                      "Gas",
+                      "InternalLaundry",
+                      "SwimmingPool",
+                      "WaterViews",
+                      "Bath",
+                      "Dishwasher",
+                      "Study"
+                  ],
+                  "propertyType": "ApartmentUnitFlat",
+                  "allPropertyTypes": [
+                      "ApartmentUnitFlat"
+                  ],
+                  "bathrooms": 2,
+                  "bedrooms": 3,
+                  "carspaces": 2,
+                  "unitNumber": "5101",
+                  "streetNumber": "93",
+                  "street": "Liverpool St",
+                  "area": "Sydney City",
+                  "region": "Sydney Region",
+                  "suburb": "SYDNEY",
+                  "postcode": "2000",
+                  "displayableAddress": "5101/93 Liverpool St, Sydney",
+                  "latitude": -33.876564,
+                  "longitude": 151.206863,
+                  "buildingArea": 194
+              },
+              "headline": "The best three bedroom plus study for sale in World Tower",
+              "summaryDescription": "<b></b><br />Simply the best three bedroom plus study, located on level 51 in Sydneys iconic World Tower this stunning apartment enjoys an ideal east aspect & offers the most inspirational & spectacular water views from living room and every bedrooms. ...",
+              "hasFloorplan": true,
+              "hasVideo": false,
+              "labels": [],
+              "dateListed": "2021-10-21T13:18:42",
+              "inspectionSchedule": {
+                  "byAppointment": false,
+                  "recurring": false,
+                  "times": [
+                      {
+                          "openingTime": "2022-01-15T11:15:00",
+                          "closingTime": "2022-01-15T11:45:00"
+                      }
+                  ]
+              },
+              "listingSlug": "5101-93-liverpool-st-sydney-nsw-2000-2017344422"
+          }
+      },
+      {
+          "type": "PropertyListing",
+          "listing": {
+              "listingType": "Sale",
+              "id": 2017244256,
+              "advertiser": {
+                  "type": "Agency",
+                  "id": 15365,
+                  "name": "Century 21 City Quarter",
+                  "logoUrl": "https://images.domain.com.au/img/Agencys/15365/logo_15365.png?date=131749759300060101",
+                  "preferredColourHex": "#252527",
+                  "bannerUrl": "https://images.domain.com.au/img/Agencys/15365/banner_15365.png?date=131749759318184412",
+                  "contacts": [
+                      {
+                          "name": "John Vytrhlik",
+                          "photoUrl": "https://images.domain.com.au/img/15365/contact_1162311.jpeg?mod=211210-195627"
+                      },
+                      {
+                          "name": "Jennifer Yong",
+                          "photoUrl": "https://images.domain.com.au/img/15365/contact_1647038.jpeg?mod=211210-195627"
+                      }
+                  ]
+              },
+              "priceDetails": {
+                  "price": 975000,
+                  "priceFrom": 975000,
+                  "priceTo": 975000,
+                  "displayPrice": "$975,000"
+              },
+              "media": [
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017244256_2_1_210909_032506-w1600-h1067"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017244256_6_1_210909_032506-w1600-h1067"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017244256_1_1_210909_032506-w1600-h1067"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017244256_4_1_210909_032506-w1618-h1080"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017244256_3_1_210909_032506-w1600-h1067"
+                  }
+              ],
+              "propertyDetails": {
+                  "state": "NSW",
+                  "features": [
+                      "AirConditioning",
+                      "BuiltInWardrobes",
+                      "Ensuite",
+                      "SecureParking",
+                      "SwimmingPool",
+                      "Gym",
+                      "Intercom"
+                  ],
+                  "propertyType": "ApartmentUnitFlat",
+                  "allPropertyTypes": [
+                      "ApartmentUnitFlat"
+                  ],
+                  "bathrooms": 2,
+                  "bedrooms": 2,
+                  "carspaces": 1,
+                  "unitNumber": "366",
+                  "streetNumber": "303",
+                  "street": "Castlereagh Street",
+                  "area": "Sydney City",
+                  "region": "Sydney Region",
+                  "suburb": "SYDNEY",
+                  "postcode": "2000",
+                  "displayableAddress": "366/303 Castlereagh Street, Sydney",
+                  "latitude": -33.8788261,
+                  "longitude": 151.208389,
+                  "landArea": 104,
+                  "buildingArea": 104
+              },
+              "headline": "GENEROUSLY PROPORTIONED, PRIZED EASTERLY ASPECT WITH UNINTERRUPTED VIEWS",
+              "summaryDescription": "<b></b><br />Boasting an easterly aspect from level 28 capturing unobstructed views over Surry Hills and Randwick with generously proportioned internals ideally position on the edge of the Sydney CBD within moments to world class dining and retail prec...",
+              "hasFloorplan": true,
+              "hasVideo": false,
+              "labels": [],
+              "dateListed": "2021-09-09T13:25:08",
+              "inspectionSchedule": {
+                  "byAppointment": false,
+                  "recurring": false,
+                  "times": []
+              },
+              "listingSlug": "366-303-castlereagh-street-sydney-nsw-2000-2017244256"
+          }
+      },
+      {
+          "type": "PropertyListing",
+          "listing": {
+              "listingType": "Sale",
+              "id": 2016771338,
+              "advertiser": {
+                  "type": "Agency",
+                  "id": 15365,
+                  "name": "Century 21 City Quarter",
+                  "logoUrl": "https://images.domain.com.au/img/Agencys/15365/logo_15365.png?date=131749759300060101",
+                  "preferredColourHex": "#252527",
+                  "bannerUrl": "https://images.domain.com.au/img/Agencys/15365/banner_15365.png?date=131749759318184412",
+                  "contacts": [
+                      {
+                          "name": "John Vytrhlik",
+                          "photoUrl": "https://images.domain.com.au/img/15365/contact_1162311.jpeg?mod=211202-114138"
+                      },
+                      {
+                          "name": "Ken Sharpe",
+                          "photoUrl": "https://images.domain.com.au/img/15365/contact_831019.jpeg?mod=210812-114813"
+                      }
+                  ]
+              },
+              "priceDetails": {
+                  "price": 765000,
+                  "priceFrom": 765000,
+                  "priceTo": 765000,
+                  "displayPrice": "$765,000"
+              },
+              "media": [
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016771338_15_1_210520_074406-w5185-h3457"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016771338_18_1_210520_074406-w5184-h3457"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016771338_12_1_210520_074406-w5186-h3458"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016771338_1_1_210520_074639-w3000-h2000"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016771338_21_1_210520_074406-w5186-h3458"
+                  }
+              ],
+              "propertyDetails": {
+                  "state": "NSW",
+                  "features": [
+                      "AirConditioning",
+                      "BuiltInWardrobes",
+                      "Floorboards",
+                      "SwimmingPool",
+                      "WaterViews"
+                  ],
+                  "propertyType": "ApartmentUnitFlat",
+                  "allPropertyTypes": [
+                      "ApartmentUnitFlat"
+                  ],
+                  "bathrooms": 1,
+                  "bedrooms": 1,
+                  "unitNumber": "602",
+                  "streetNumber": "27",
+                  "street": "King Street",
+                  "area": "Sydney City",
+                  "region": "Sydney Region",
+                  "suburb": "SYDNEY",
+                  "postcode": "2000",
+                  "displayableAddress": "602/27 King Street, Sydney",
+                  "latitude": -33.8689346,
+                  "longitude": 151.204025
+              },
+              "headline": "Designer residence set in the boutique 'Kingsleigh'",
+              "summaryDescription": "<b></b><br />Set within footsteps of both Darling harbour and King Streets iconic high end retail strip this stunning one bedroom has been transformed by a quality renovation throughout. Residents enjoy a luxurious maintenance free lifestyle featuring ...",
+              "hasFloorplan": true,
+              "hasVideo": true,
+              "labels": [],
+              "dateListed": "2021-02-01T17:55:24",
+              "inspectionSchedule": {
+                  "byAppointment": true,
+                  "recurring": false,
+                  "times": []
+              },
+              "listingSlug": "602-27-king-street-sydney-nsw-2000-2016771338"
+          }
+      },
+      {
+          "type": "PropertyListing",
+          "listing": {
+              "listingType": "Sale",
+              "id": 2016055268,
+              "advertiser": {
+                  "type": "Agency",
+                  "id": 3490,
+                  "name": "Master Real Estate",
+                  "logoUrl": "https://images.domain.com.au/img/Agencys/3490/logo_3490.jpg?date=132574867626679038",
+                  "preferredColourHex": "#FFFFFF",
+                  "bannerUrl": "https://images.domain.com.au/img/Agencys/3490/banner_3490.jpg?date=132574867825044184",
+                  "contacts": []
+              },
+              "priceDetails": {
+                  "price": 599000,
+                  "priceFrom": 599000,
+                  "priceTo": 599000,
+                  "displayPrice": "$599,000"
+              },
+              "media": [
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016055268_1_1_210129_041012-w1200-h802"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016055268_1_1_200206_082826-w719-h472"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016055268_2_1_200206_082826-w718-h468"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016055268_3_1_200206_082826-w719-h476"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016055268_4_1_200206_082826-w718-h475"
+                  }
+              ],
+              "propertyDetails": {
+                  "state": "NSW",
+                  "features": [
+                      "AirConditioning",
+                      "BuiltInWardrobes",
+                      "Floorboards",
+                      "Gas",
+                      "InternalLaundry",
+                      "SwimmingPool",
+                      "IndoorSpa",
+                      "Gym",
+                      "Intercom",
+                      "Dishwasher"
+                  ],
+                  "propertyType": "ApartmentUnitFlat",
+                  "allPropertyTypes": [
+                      "ApartmentUnitFlat"
+                  ],
+                  "bathrooms": 1,
+                  "unitNumber": "3701",
+                  "streetNumber": "393",
+                  "street": "Pitt Street",
+                  "area": "Sydney City",
+                  "region": "Sydney Region",
+                  "suburb": "SYDNEY",
+                  "postcode": "2000",
+                  "displayableAddress": "3701/393 Pitt Street, Sydney",
+                  "latitude": -33.87721,
+                  "longitude": 151.207443,
+                  "buildingArea": 35
+              },
+              "headline": "Studio 1 Bathroom",
+              "summaryDescription": "<b></b><br />Modern south facing studio with balcony in excellent condition. It is in a fantastic location, with World Square Shopping Centre located directly below the building and only a short walk to public transport.\r\nFeatures gas kitchen and stain...",
+              "hasFloorplan": true,
+              "hasVideo": false,
+              "labels": [],
+              "dateListed": "2020-02-06T19:28:26",
+              "inspectionSchedule": {
+                  "byAppointment": true,
+                  "recurring": false,
+                  "times": []
+              },
+              "listingSlug": "3701-393-pitt-street-sydney-nsw-2000-2016055268"
+          }
+      },
+      {
+          "type": "PropertyListing",
+          "listing": {
+              "listingType": "Sale",
+              "id": 2016049229,
+              "advertiser": {
+                  "type": "Agency",
+                  "id": 4392,
+                  "name": "The Property Business Australia",
+                  "logoUrl": "https://images.domain.com.au/img/Agencys/4392/logo_4392.GIF",
+                  "preferredColourHex": "#00053c",
+                  "bannerUrl": "https://images.domain.com.au/img/Agencys/4392/banner_4392.GIF",
+                  "contacts": [
+                      {
+                          "name": "Bernadette Rayner",
+                          "photoUrl": "https://images.domain.com.au/img/4392/contact_482933.jpeg?mod=211130-133859"
+                      }
+                  ]
+              },
+              "priceDetails": {
+                  "price": 805000,
+                  "priceFrom": 805000,
+                  "priceTo": 805000,
+                  "displayPrice": "$805,000"
+              },
+              "media": [
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016049229_3_1_200714_040329-w1200-h900"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016049229_1_1_200714_040329-w1200-h900"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016049229_2_1_200714_040329-w1200-h900"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016049229_4_1_200714_040329-w675-h900"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016049229_5_1_200714_040329-w1200-h900"
+                  }
+              ],
+              "propertyDetails": {
+                  "state": "NSW",
+                  "features": [
+                      "AirConditioning",
+                      "BuiltInWardrobes",
+                      "Floorboards",
+                      "Gas",
+                      "InternalLaundry",
+                      "SwimmingPool",
+                      "Gym",
+                      "Intercom",
+                      "Dishwasher",
+                      "BalconyDeck"
+                  ],
+                  "propertyType": "ApartmentUnitFlat",
+                  "allPropertyTypes": [
+                      "ApartmentUnitFlat"
+                  ],
+                  "bathrooms": 1,
+                  "bedrooms": 1,
+                  "unitNumber": "",
+                  "streetNumber": "23",
+                  "street": "Shelley Street",
+                  "area": "Sydney City",
+                  "region": "Sydney Region",
+                  "suburb": "SYDNEY",
+                  "postcode": "2000",
+                  "displayableAddress": "23 Shelley Street, Sydney",
+                  "latitude": -33.8671761,
+                  "longitude": 151.202362
+              },
+              "headline": "Modern One Bedroom Apartment - King St Wharf",
+              "summaryDescription": "<b></b><br />Located in the highly sought after King Street Wharf residential complex, this modern one bedroom apartment offers bright, open plan living with a spacious floorplan along with a unique harbourside location.\r\n\r\nFeaturing;\r\n* Queen size bed...",
+              "hasFloorplan": false,
+              "hasVideo": false,
+              "labels": [],
+              "dateListed": "2020-02-03T14:27:59",
+              "inspectionSchedule": {
+                  "byAppointment": true,
+                  "recurring": false,
+                  "times": []
+              },
+              "listingSlug": "23-shelley-street-sydney-nsw-2000-2016049229"
+          }
+      },
+      {
+          "type": "PropertyListing",
+          "listing": {
+              "listingType": "Sale",
+              "id": 2017508090,
+              "advertiser": {
+                  "type": "Agency",
+                  "id": 17474,
+                  "name": "Goodvest Realty International",
+                  "logoUrl": "https://images.domain.com.au/img/Agencys/17474/logo_17474.GIF",
+                  "preferredColourHex": "#DDDDDD",
+                  "bannerUrl": "https://images.domain.com.au/img/Agencys/17474/banner_17474.GIF",
+                  "contacts": [
+                      {
+                          "name": "Joel Foong"
+                      }
+                  ]
+              },
+              "priceDetails": {
+                  "price": 1395000,
+                  "priceFrom": 1395000,
+                  "priceTo": 1395000,
+                  "displayPrice": "$1,395,000"
+              },
+              "media": [
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017508090_1_1_220111_014140-w1600-h1068"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017508090_2_1_220111_014140-w1600-h1068"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017508090_3_1_220111_014140-w1600-h1068"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017508090_4_1_220111_014140-w1600-h1068"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017508090_5_1_220111_014140-w1600-h1068"
+                  }
+              ],
+              "propertyDetails": {
+                  "state": "NSW",
+                  "features": [
+                      "AirConditioning",
+                      "BuiltInWardrobes",
+                      "Ensuite",
+                      "Floorboards",
+                      "Gas",
+                      "InternalLaundry",
+                      "SecureParking",
+                      "SwimmingPool",
+                      "WaterViews",
+                      "NorthFacing",
+                      "CityViews",
+                      "Gym",
+                      "Intercom",
+                      "Bath",
+                      "Heating",
+                      "DoubleGlazedWindows"
+                  ],
+                  "propertyType": "ApartmentUnitFlat",
+                  "allPropertyTypes": [
+                      "ApartmentUnitFlat"
+                  ],
+                  "bathrooms": 2,
+                  "bedrooms": 2,
+                  "carspaces": 2,
+                  "unitNumber": "326",
+                  "streetNumber": "298",
+                  "street": "Sussex Street",
+                  "area": "Sydney City",
+                  "region": "Sydney Region",
+                  "suburb": "SYDNEY",
+                  "postcode": "2000",
+                  "displayableAddress": "326/298 Sussex Street, Sydney",
+                  "latitude": -33.8744278,
+                  "longitude": 151.204575
+              },
+              "headline": "Bathe In Sydney's Sun in this North Facing Beauty",
+              "summaryDescription": "<b></b><br />Rare Opportunity to own this magnificent North Facing beauty in Sydney's Maestri Towers. Shrouded in Natural Light with floor to ceiling windows, with 180 degree views from across Darling Harbour and the Sydney's Skyline this split level a...",
+              "hasFloorplan": true,
+              "hasVideo": false,
+              "labels": [],
+              "dateListed": "2022-01-11T12:41:40",
+              "inspectionSchedule": {
+                  "byAppointment": false,
+                  "recurring": false,
+                  "times": [
+                      {
+                          "openingTime": "2022-01-15T11:00:00",
+                          "closingTime": "2022-01-15T11:30:00"
+                      }
+                  ]
+              },
+              "listingSlug": "326-298-sussex-street-sydney-nsw-2000-2017508090"
+          }
+      },
+      {
+          "type": "PropertyListing",
+          "listing": {
+              "listingType": "Sale",
+              "id": 2017473377,
+              "advertiser": {
+                  "type": "Agency",
+                  "id": 24542,
+                  "name": "RMA Real Estate",
+                  "logoUrl": "https://images.domain.com.au/img/Agencys/24542/logo_24542.jpeg",
+                  "preferredColourHex": "#ffffff",
+                  "bannerUrl": "https://images.domain.com.au/img/Agencys/24542/banner_24542.jpeg",
+                  "contacts": [
+                      {
+                          "name": "Daisy Kong",
+                          "photoUrl": "https://images.domain.com.au/img/24542/contact_1762450.jpeg?mod=211218-151108"
+                      }
+                  ]
+              },
+              "priceDetails": {
+                  "price": 2700000,
+                  "priceFrom": 2700000,
+                  "priceTo": 2700000,
+                  "displayPrice": "$2,700,000"
+              },
+              "media": [
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016129629_7_1_200305_120144-w1701-h668"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016873372_2_1_210317_041520-w4000-h1600"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016129629_4_1_200305_120144-w1280-h640"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016129629_8_1_200305_120144-w1280-h853"
+                  },
+                  {
+                      "category": "Image",
+                      "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016879568_1_1_210319_024946-w2000-h1414"
+                  }
+              ],
+              "propertyDetails": {
+                  "state": "NSW",
+                  "features": [
+                      "AirConditioning",
+                      "BuiltInWardrobes",
+                      "Ensuite",
+                      "Floorboards",
+                      "Gas",
+                      "InternalLaundry",
+                      "SecureParking",
+                      "SwimmingPool",
+                      "WaterViews",
+                      "NorthFacing",
+                      "CityViews",
+                      "IndoorSpa",
+                      "Gym",
+                      "AlarmSystem",
+                      "Intercom",
+                      "Dishwasher"
+                  ],
+                  "propertyType": "ApartmentUnitFlat",
+                  "allPropertyTypes": [
+                      "ApartmentUnitFlat"
+                  ],
+                  "bathrooms": 2,
+                  "bedrooms": 2,
+                  "carspaces": 1,
+                  "unitNumber": "5x01",
+                  "streetNumber": "117",
+                  "street": "Bathurst Street",
+                  "area": "Sydney City",
+                  "region": "Sydney Region",
+                  "suburb": "SYDNEY",
+                  "postcode": "2000",
+                  "displayableAddress": "5x01/117 Bathurst Street, Sydney",
+                  "latitude": -33.87429,
+                  "longitude": 151.20607
+              },
+              "headline": "Excellent 2-bed Apartment with Car Parking. North facingwith amazing water view",
+              "summaryDescription": "<b></b><br />2 bedrooms luxury apartment in the one of Sydney's tallest residential towers Greenland Centre. It offers new heights of luxury and convenience in residential living commanding never before seen views over the world's most beautiful harbou...",
+              "hasFloorplan": true,
+              "hasVideo": false,
+              "labels": [],
+              "dateListed": "2021-12-07T20:02:15",
+              "inspectionSchedule": {
+                  "byAppointment": false,
+                  "recurring": false,
+                  "times": []
+              },
+              "listingSlug": "5x01-117-bathurst-street-sydney-nsw-2000-2017473377"
+          }
+      }
+  ],
+  "id": "8a46ebac-fc05-4c1e-b3ef-5e616bb2ecf7",
+  "_rid": "vuF8ANxmn3gBAAAAAAAAAA==",
+  "_self": "dbs/vuF8AA==/colls/vuF8ANxmn3g=/docs/vuF8ANxmn3gBAAAAAAAAAA==/",
+  "_etag": "\"0000202f-0000-1a00-0000-61e2477e0000\"",
+  "_attachments": "attachments/",
+  "_ts": 1642219390
+}
+

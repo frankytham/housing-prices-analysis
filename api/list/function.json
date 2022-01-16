@@ -13,9 +13,18 @@
     {
       "type": "cosmosDB",
       "direction": "out",
-      "name": "doc",
+      "name": "suburbdoc",
       "databaseName": "housing-prices-analysis-cosmosdb",
-      "collectionName": "suburb-data",
+      "collectionName": "suburbs",
+      "createIfNotExists": "true",
+      "connectionStringSetting": "AzureCosmosDBConnectionString"
+    },
+    {
+      "type": "cosmosDB",
+      "direction": "out",
+      "name": "listingdoc",
+      "databaseName": "housing-prices-analysis-cosmosdb",
+      "collectionName": "listings",
       "createIfNotExists": "true",
       "connectionStringSetting": "AzureCosmosDBConnectionString"
     },
