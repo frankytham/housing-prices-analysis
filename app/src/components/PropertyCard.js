@@ -16,8 +16,8 @@ const PropertyCard = ({ property }) => {
       id,
       listingSlug,
       advertiser: {
-        bannerUrl,
-        logoUrl,
+        // bannerUrl,
+        // logoUrl,
         name,
         contacts
       },

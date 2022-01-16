@@ -17,8 +17,8 @@ const ProjectCard = ({ project }) => {
       id,
       projectSlug,
       name,
-      bannerUrl,
-      logoUrl,
+      // bannerUrl,
+      // logoUrl,
       displayableAddress,
       media
     }

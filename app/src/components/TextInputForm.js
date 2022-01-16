@@ -13,8 +13,8 @@ import { ListingContext } from '../contexts/ListingContext';
 
 const TextInputForm = () => {
   const { allListings, dispatch } = useContext(ListingContext);
-  const [value, setValue] = useState(null);
-  const [locationOptions, setLocationOptions] = useState([]);
+  // const [value, setValue] = useState(null);
+  // const [locationOptions, setLocationOptions] = useState([]);
   const [suburb, setSuburb] = useState('');
   const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
@@ -55,8 +55,13 @@ const TextInputForm = () => {
 
   const postSuburb = (event) => {
     event.preventDefault();
+    
+    console.log(allListings);
+    console.log(loading);
 
+    
     setLoading(true);
+
 
     // fetch(`https://housing-prices-analysis.azurewebsites.net/api/list?${process.env.REACT_APP_FUNCTION_API_PARAM}=${process.env.REACT_APP_FUNCTION_API_KEY}`, {
     //   method: 'POST',
@@ -91,7 +96,7 @@ const TextInputForm = () => {
     setSuburb(event.target.value);
 
     // Autocomplete Attempt
-    if (suburb.split('').length > 1) {
+    /* if (suburb.split('').length > 1) {
       // Get suburbs/postcodes
       fetch('data/australian_postcodes.json',{
         headers : { 
@@ -113,7 +118,7 @@ const TextInputForm = () => {
           console.log(locationOptions);
       })
         .catch((error) => console.log(error));
-    }
+    } */
   };
 
   return (
