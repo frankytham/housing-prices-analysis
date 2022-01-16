@@ -63,19 +63,29 @@ const TextInputForm = () => {
     setLoading(true);
 
 
-    // fetch(`https://housing-prices-analysis.azurewebsites.net/api/list?${process.env.REACT_APP_FUNCTION_API_PARAM}=${process.env.REACT_APP_FUNCTION_API_KEY}`, {
-    //   method: 'POST',
-    //   headers: {
-    //     'Content-Type': 'application/json'
-    //   },
-    //   body: JSON.stringify({
-    //     suburb: suburb
-    //   })
-    // })
-    // .catch(err => console.log('An error has occurred'));
+    fetch(`https://housing-prices-analysis.azurewebsites.net/api/list?${process.env.REACT_APP_FUNCTION_API_PARAM}=${process.env.REACT_APP_FUNCTION_API_KEY}`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        suburb: suburb
+      })
+    })
+    .then((response) => response.json())
+    .then((data) => {
+      dispatch({ type: LISTINGS_SUCCESS, payload: data.listings });
+      setSuburb('');
+      setLoading(false);
+      navigate('/result', { state: data.listings });
+    })
+    .catch((error) => {
+      dispatch({ type: LISTINGS_FAIL, payload: error.message });
+    });
+
 
     // Fetch listings from sample data
-    fetch('/data/sample.json',{
+    /* fetch('/data/sample.json',{
       	headers : { 
       		'Content-Type': 'application/json',
       		'Accept': 'application/json'
@@ -89,7 +99,7 @@ const TextInputForm = () => {
       })
       .catch((error) => {
         dispatch({ type: LISTINGS_FAIL, payload: error.message });
-      });
+      }); */
   };
 
   const handleChange = (event) => {
