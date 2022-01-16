@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className="bg-content-overlay">
       <Typography variant="h4" className="h4-style">
-        Enter a <strong>suburb</strong> or <strong>postcode</strong>
+        Enter a <strong>suburb</strong>
       </Typography>
       <TextInputForm />
     </div>

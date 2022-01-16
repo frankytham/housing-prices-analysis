@@ -13,7 +13,7 @@ const Result = () => {
     <div className="bg-content">
       <div className="search-bar">
         <Typography variant="body1" className="h4-style">
-          Enter a <strong>suburb</strong> or <strong>postcode</strong>
+          Enter a <strong>suburb</strong>
         </Typography>
         <TextInputForm />
       </div>
